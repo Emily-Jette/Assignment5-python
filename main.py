@@ -14,8 +14,8 @@ diameter = int(diameter)
 
 # the math
 radius = diameter/2
-area = round(pi*(radius*radius),1)
-c = round(2*(pi*radius),1)
+area = round(pi*(radius*radius), 1)
+c = round(2*(pi*radius), 1)
 
 # final answer is printed
-print('The area is',area,'and the circumference is',c)
+print('The area is', area, 'and the circumference is', c)
